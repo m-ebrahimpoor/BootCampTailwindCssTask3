@@ -16,6 +16,7 @@ module.exports = {
           'red': '#FF0000CC',
           'primary-100': '#DFDFE580',
           'secondary-400': '#4A6DFF',
+          'secondary-700': '#555775',
         },
 
         fontSize: {
